@@ -18,7 +18,7 @@ const Home = () => {
           <h1 className='component-title'>
             ABOUT
           </h1>
-          <img src={MyImage}  className='myimage'/>
+          <img src={MyImage}  className='myimage' alt="Image of Myself"/>
           <h2 className='component-subtitle-about'>
             Hello! I am a Mexican Software Engineer, but you already knew that. I specialize in solving conceptual
             problems, quantifying them and translating them into code. Cool right! If you want to find out more

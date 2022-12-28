@@ -1,6 +1,5 @@
 import React,{useState, useEffect} from 'react';
 import {Link} from 'react-router-dom';
-import {Button} from './Button';
 import './Navbar.css';
 // This uses Font Awesome CDN it helps you automate accessibility support more easily so your icons work for the most people possible
 // https://fontawesome.com/v5/docs/web/use-with/wordpress/install-manually
