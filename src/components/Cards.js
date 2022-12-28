@@ -1,7 +1,7 @@
 import React from 'react';
-import botimage from '../assets/botimage.png'
+import botimage from '../assets/DiscordImage.jpg'
 import websiteimage from '../assets/websiteimage.png'
-import githubimage from '../assets/github.png'
+import githubimage from '../assets/ReactImage.png'
 import './Cards.css';
 import CardItem from './CardItem';
 
