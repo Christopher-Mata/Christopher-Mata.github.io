@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/resume-werbsite/static/css/main.1bab1c98.css",
+    "main.js": "/resume-werbsite/static/js/main.9dd1e01a.js",
+    "static/media/websiteimage.png": "/resume-werbsite/static/media/websiteimage.292885c3bf4e462541f9.png",
+    "static/media/bck.jpg": "/resume-werbsite/static/media/bck.33566b3fffc8b316a1a9.jpg",
+    "static/media/COMM_selfPortrait.jpeg": "/resume-werbsite/static/media/COMM_selfPortrait.f0f6ff3148d3c38e5f51.jpeg",
+    "static/media/ReactImage.png": "/resume-werbsite/static/media/ReactImage.c2a6ac864c4ccb52e12e.png",
+    "index.html": "/resume-werbsite/index.html",
+    "main.1bab1c98.css.map": "/resume-werbsite/static/css/main.1bab1c98.css.map",
+    "main.9dd1e01a.js.map": "/resume-werbsite/static/js/main.9dd1e01a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bab1c98.css",
+    "static/js/main.9dd1e01a.js"
+  ]
+}
