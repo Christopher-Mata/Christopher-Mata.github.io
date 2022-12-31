@@ -43,7 +43,7 @@ function Navbar() {
                         </a>
                     </li>
                 </ul>
-            <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+            <Link to="/resume-website" className="navbar-logo" onClick={closeMobileMenu}>
                 Christopher Mata
             </Link>
            
